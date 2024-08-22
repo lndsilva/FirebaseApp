@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204791409890",
+    "project_id": "app-android-firebase-f8744",
+    "storage_bucket": "app-android-firebase-f8744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204791409890:android:0e4c286b321eb278e7c2bb",
+        "android_client_info": {
+          "package_name": "br.com.local.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdXRUSEbZ_1yFdvvbBLPUVZ2kT5jmuxS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
